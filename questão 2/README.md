@@ -1,6 +1,6 @@
 ## #210. Course Schedule II
 
-[Link para a questão](https://leetcode.com/problems/word-ladder-ii/description/)
+[Link para a questão](https://leetcode.com/problems/course-schedule-ii/description/)
 
 ### Gravação
 
