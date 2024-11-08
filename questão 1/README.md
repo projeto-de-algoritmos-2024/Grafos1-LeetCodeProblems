@@ -1,5 +1,7 @@
 ## #126. Word Ladder II
 
+![image](https://github.com/user-attachments/assets/a8775520-4409-4951-84e5-8d2c945d4fc9)
+
 [Link para a questão](https://leetcode.com/problems/word-ladder-ii/description/)
 
 ### Gravação
@@ -43,3 +45,8 @@ Constraints:
 - The sum of all shortest transformation sequences does not exceed 105.
 
 ### Submissões: 
+
+![image](https://github.com/user-attachments/assets/351626d3-95a8-4c59-bf47-e0736f53c67d)
+
+![image](https://github.com/user-attachments/assets/ab1b80a1-11ba-49d0-8d1e-ccd0d9ba809b)
+
