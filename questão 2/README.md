@@ -1,5 +1,7 @@
 ## #210. Course Schedule II
 
+![image](https://github.com/user-attachments/assets/fb716565-168c-4d6d-9dc6-ff599cac5d76)
+
 [Link para a questão](https://leetcode.com/problems/course-schedule-ii/description/)
 
 ### Gravação
@@ -42,3 +44,10 @@ Constraints:
 - All the pairs [ai, bi] are distinct.
 
 ### Submissões: 
+
+![image](https://github.com/user-attachments/assets/76be7346-3594-4ab2-9a71-d7f593a38262)
+
+![image](https://github.com/user-attachments/assets/5c400814-23b7-468e-891b-3dc527333a71)
+
+
+
