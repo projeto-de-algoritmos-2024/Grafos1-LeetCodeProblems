@@ -1,7 +1,7 @@
 # Grafos1-LeetCodeProblems
 
 Temas:
- - Grafos1
+ - Grafos 1
 
 # LeetCode
 
