@@ -1,6 +1,6 @@
 ## #2608. Shortest Cycle in a Graph
 
-![image](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1-LeetCodeProblems/refs/heads/main/images/questao3/TITLESHORTESTPATH.png?token=GHSAT0AAAAAAC2GRV64PGPKMYCZSQWKS54AZZQA2AQ)
+![image](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1-LeetCodeProblems/refs/heads/main/images/questao3/TITLESHORTESTPATH.png?token=GHSAT0AAAAAAC2GRV64LQOUB6WXF6LQJTHQZZQBQOA)
 
 [Link para a questão](https://leetcode.com/problems/shortest-cycle-in-a-graph/description/)
 
@@ -19,7 +19,7 @@ A cycle is a path that starts and ends at the same node, and each edge in the pa
 
 Example 1:
 
-![image](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1-LeetCodeProblems/refs/heads/main/images/questao3/example1.png?token=GHSAT0AAAAAAC2GRV65AHBBPCQ7I7CW2IT4ZZQA2XA)
+![image](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1-LeetCodeProblems/refs/heads/main/images/questao3/example1.png?token=GHSAT0AAAAAAC2GRV64S23DHABKKZZRV6MMZZQBRDA)
 
 Input: n = 7, edges = [[0,1],[1,2],[2,0],[3,4],[4,5],[5,6],[6,3]]
 Output: 3
@@ -28,7 +28,7 @@ Explanation: The cycle with the smallest length is : 0 -> 1 -> 2 -> 0
 
 Example 2:
 
-![image](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1-LeetCodeProblems/refs/heads/main/images/questao3/example2.png?token=GHSAT0AAAAAAC2GRV64I25MMI2ITBMGRGOGZZQA3DQ)
+![image](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1-LeetCodeProblems/refs/heads/main/images/questao3/example2.png?token=GHSAT0AAAAAAC2GRV65XGOJQ7JBNWRX6XJIZZQBR2A)
 
 Input: n = 4, edges = [[0,1],[0,2]]
 Output: -1
