@@ -2,13 +2,13 @@
 
 ![image](../images/questao3/TITLESHORTESTPATH.png)
 
-[Link para a questão](https://leetcode.com/problems/shortest-cycle-in-a-graph/description/)
+[Link para a questão no Leetcode](https://leetcode.com/problems/shortest-cycle-in-a-graph/description/)
 
 ### Gravação
-
-#### Dificuldade: Difícil
+[Link do vídeo](https://youtu.be/Pns_iZv4RRI)
 
 ### Enunciado
+#### Dificuldade: Difícil
 
 There is a bi-directional graph with n vertices, where each vertex is labeled from 0 to n - 1. The edges in the graph are represented by a given 2D integer array edges, where edges[i] = [ui, vi] denotes an edge between vertex ui and vertex vi. Every vertex pair is connected by at most one edge, and no vertex has an edge to itself.
 
