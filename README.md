@@ -6,7 +6,8 @@ Temas:
 # LeetCode
 
 **Número da Lista**: 1
-**Conteúdo da Disciplina**: Grafos1
+
+**Conteúdo da Disciplina**: Grafos 1
 
 ## Alunos
 |Matrícula | Aluno |
@@ -15,18 +16,14 @@ Temas:
 | 21/1039635 |  MIGUEL MATOS COSTA DE FRIAS BARBOSA |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este repositório contém questões resolvidas, sobre o conteúdo de Grafos, do site [LeetCode](https://leetcode.com). Tais questões foram usadas para praticar e aplicar o que nos foi ministrado pelo Prof. Maurício durante o desenvolvimento do primeiro tópico (Grafos 1) da Disciplina de Projeto de Algoritmos. 
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Questões
+| Exercício | Dificuldade | Enunciado | Aluno |
+| -- | -- | -- | -- |
+| [126. Word Ladder II](https://github.com/projeto-de-algoritmos-2024/Grafos1-LeetCodeProblems/tree/main/quest%C3%A3o%201) | Hard | [Clique Aqui](https://leetcode.com/problems/word-ladder-ii/description/) | Artur Rodrigues Sousa Alves |
+| [210. Course Schedule II](https://github.com/projeto-de-algoritmos-2024/Grafos1-LeetCodeProblems/tree/main/quest%C3%A3o%202) | Medium | [Clique Aqui](https://leetcode.com/problems/course-schedule-ii/description/) | Artur Rodrigues Sousa Alves |
+| [2608. Shortest Cycle in a Graph](https://github.com/projeto-de-algoritmos-2024/Grafos1-LeetCodeProblems/tree/main/quest%C3%A3o%203) | Hard | [Clique Aqui](https://leetcode.com/problems/shortest-cycle-in-a-graph/description/) |  Miguel Matos Costa De Frias Barbosa |
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+[Python](https://www.python.org/)
