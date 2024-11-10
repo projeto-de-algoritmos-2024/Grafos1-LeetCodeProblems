@@ -46,6 +46,6 @@ Constraints:
 
 ### Submissões: 
 
-![image](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1-LeetCodeProblems/refs/heads/main/images/questao3/SubmissionA.png?token=GHSAT0AAAAAAC2GRV645YEK7A4RGQPTRVT6ZZQBMBA)
+![image](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1-LeetCodeProblems/refs/heads/main/images/questao3/SubmissionA.png?token=GHSAT0AAAAAAC2GRV65U5ZI7BKK6FRNWS3IZZQBV7Q)
 
-![image](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1-LeetCodeProblems/refs/heads/main/images/questao3/Submissions.png?token=GHSAT0AAAAAAC2GRV657TDRSSBQ77L25VNSZZQBLYQ)
+![image](https://raw.githubusercontent.com/projeto-de-algoritmos-2024/Grafos1-LeetCodeProblems/refs/heads/main/images/questao3/Submissions.png?token=GHSAT0AAAAAAC2GRV65XXNXPWIRBYL4OUOKZZQBWRQ)
