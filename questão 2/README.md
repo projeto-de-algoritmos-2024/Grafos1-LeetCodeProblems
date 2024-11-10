@@ -6,6 +6,8 @@
 
 ### Gravação
 
+[Link para a gravação](https://youtu.be/NX1RvI2adlo)
+
 #### Dificuldade: Média
 
 ### Enunciado
