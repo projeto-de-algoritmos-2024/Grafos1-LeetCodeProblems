@@ -31,6 +31,6 @@ Node 7 has the highest edge score so return 7.
 
 ### Submissões: 
 
-![image]()
+![image](../images/questao4/ScoreSUBAcpt.png)
 
-![image]()
+![image](../images/questao4/SubmissionScore.png)
