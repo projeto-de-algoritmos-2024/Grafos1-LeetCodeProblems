@@ -5,7 +5,7 @@
 [Link para a questão no Leetcode](https://leetcode.com/problems/node-with-highest-edge-score/description/)
 
 ### Gravação
-[Link do vídeo]()
+[Link do vídeo](https://youtu.be/GjepCrePUtA)
 
 ### Enunciado
 #### Dificuldade: Média
